@@ -1,0 +1,8 @@
+{
+  "name": "ionic-photo",
+  "app_id": "f547704b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
